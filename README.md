@@ -1,4 +1,3 @@
-# kanishkHealthcare-India-Data-Analysis-health.csv
 S.No.,State/ UT,Total Population in Rural Areas,Estimated Tribal Population in Rural Areas,Sub Centres - Required,Sub Centres - In Position,Sub Centres - Shortfall,Primary Health Centres (PHCs) - Required,Primary Health Centres (PHCs) - In Position,Primary Health Centres (PHCs) - Shortfall,Community Health Centres (CHCs) - Required,Community Health Centres (CHCs) - In Position,Community Health Centres (CHCs) - Shortfall
 1,Andhra Pradesh,"56,311,788","4,723,312","11,892","12,522",Surplus,"1,955","1,624",331,488,281,207
 2,Arunachal Pradesh,"1,069,165","744,996",313,286,27,48,97,Surplus,12,48,Surplus
